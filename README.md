@@ -1,3 +1,6 @@
+# Just a temp package from clousale/amazon-sp-api-php until the owner make it work with the Guzzle 7
+
+
 # Amazon Selling Partner API PHP 
 
 This is an API Binding in PHP for the new Amazon Selling Partner API.
